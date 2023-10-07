@@ -1,0 +1,13 @@
+VARUNKUMAR@VARUNKUMAR-VirtualBox:~/Desktop$ tar -cvf Devops.tar Devops
+Devops/
+Devops/VAR
+VARUNKUMAR@VARUNKUMAR-VirtualBox:~/Desktop$ tar -cf Devops.tar Devops
+VARUNKUMAR@VARUNKUMAR-VirtualBox:~/Desktop$ tar -xvf Devops.tar Devops
+Devops/
+Devops/VAR
+VARUNKUMAR@VARUNKUMAR-VirtualBox:~/Desktop$ ls
+ AA   AA.zip   Devops   Devops.tar   Devops.zip  'git token'   nnn   Source   vaaa   varunfile
+VARUNKUMAR@VARUNKUMAR-VirtualBox:~/Desktop$ cd^C
+VARUNKUMAR@VARUNKUMAR-VirtualBox:~/Desktop$ 
+
+
