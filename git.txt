@@ -3,7 +3,7 @@ public class
 
 public static void main (String arge[]){
 int i;
-for(i=0;i<=10;i++)
+for(i=0;i<=30;i++)
 {
 System.out.println("number :"+i);
 }
