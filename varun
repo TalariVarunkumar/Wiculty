@@ -3,7 +3,7 @@ public class{
 public static void main (String [] arge){
 
 int i;
-for (i=o;i<=3i0;i++){
+for (i=o;i<=30;i++){
 System.out.println ("number"+i);
 i
 }
